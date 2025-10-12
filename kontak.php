@@ -30,7 +30,6 @@
                             ?>
                             <form action="kirim-email.php" method="post">
                                 ```
-                        **Jangan lupa:** Sekarang Anda harus mengakses formulir melalui **`http://tanaman-taro.test/kontak.php`**.
                         <form action="kirim-email.php" method="post">
                             <div class="mb-3">
                                 <label for="email_penerima" class="form-label">Email Penerima:</label>
