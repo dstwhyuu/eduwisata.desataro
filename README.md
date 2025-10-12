@@ -2,8 +2,6 @@
 
 A web-based information system designed to manage plant data and generate QR codes for the Taro Edu-tourism site in Bali. This application allows administrators to manage botanical information, which can then be easily accessed by visitors via QR codes.
 
-![sc1](https://github.com/dstwhyuu/Sistem_Informasi_Eduwisata_Taro/assets/107770857/d49b251a-d04b-466d-ad02-d96a603ac539)
-
 
 ## 📋 Key Features
 
@@ -78,14 +76,7 @@ To run this project on your local machine, follow these steps:
 
 ## 📸 Demo
 
-*A screenshot of the Admin Login Page*
-![Login Page](login-page.png)
-
-*A screenshot of the Main Dashboard*
-![Admin Dashboard](dashboard-admin.png)
-
-*A screenshot of the Detail Page*
-![Detail Page](detail-page.png)
+![Detail Page](./images/detail-page.png)
 
 ---
 
