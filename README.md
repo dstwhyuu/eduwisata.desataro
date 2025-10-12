@@ -79,13 +79,13 @@ To run this project on your local machine, follow these steps:
 ## 📸 Demo
 
 *A screenshot of the Admin Login Page*
-![Login Page](login-page.png)
+![Login Page](./images/login-page.png)
 
 *A screenshot of the Main Dashboard*
-![Admin Dashboard](dashboard-admin.png)
+![Admin Dashboard](./dashboard-admin.png)
 
 *A screenshot of the Detail Page*
-![Detail Page](detail-page.png)
+![Detail Page](./detail-page.png)
 
 ---
 
