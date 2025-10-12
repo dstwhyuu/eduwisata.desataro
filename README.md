@@ -76,16 +76,16 @@ To run this project on your local machine, follow these steps:
     * Place the project folder in your local server's root directory (e.g., `htdocs` for XAMPP or `www` for Laragon).
     * Open your web browser and navigate to `http://localhost/Sistem_Informasi_Eduwisata_Taro`.
 
-## 📸 Screenshots
+## 📸 Demo
 
-*ADD YOUR SCREENSHOTS HERE*
-
-**Example:**
 *A screenshot of the Admin Login Page*
-![Login Page](link-to-your-screenshot.png)
+![Login Page](login-page.png)
 
 *A screenshot of the Main Dashboard*
-![Admin Dashboard](link-to-your-screenshot.png)
+![Admin Dashboard](dashboard-admin.png)
+
+*A screenshot of the Detail Page*
+![Detail Page](detail-page.png)
 
 ---
 
