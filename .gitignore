@@ -1,0 +1,5 @@
+# Abaikan folder dependensi Composer
+/vendor
+
+# Abaikan folder upload pengguna
+/uploads
