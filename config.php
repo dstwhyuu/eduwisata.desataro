@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://tanaman_taro.test/');
+define('BASE_URL', 'http://localhost/Sistem_Informasi_Eduwisata_Taro/');
 
 $host = "localhost";
 $user = "root";
