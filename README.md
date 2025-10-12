@@ -82,10 +82,10 @@ To run this project on your local machine, follow these steps:
 ![Login Page](./images/login-page.png)
 
 *A screenshot of the Main Dashboard*
-![Admin Dashboard](./dashboard-admin.png)
+![Admin Dashboard](./images/dashboard-admin.png)
 
 *A screenshot of the Detail Page*
-![Detail Page](./detail-page.png)
+![Detail Page](./images/detail-page.png)
 
 ---
 
