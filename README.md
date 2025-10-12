@@ -78,12 +78,6 @@ To run this project on your local machine, follow these steps:
 
 ## 📸 Demo
 
-*A screenshot of the Admin Login Page*
-![Login Page](./images/login-page.png)
-
-*A screenshot of the Main Dashboard*
-![Admin Dashboard](./images/dashboard-admin.png)
-
 *A screenshot of the Detail Page*
 ![Detail Page](./images/detail-page.png)
 
