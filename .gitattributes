@@ -1,0 +1,3 @@
+# Beritahu GitHub untuk mengabaikan folder ini saat analisis bahasa
+vendor/* linguist-vendored
+ckeditor/* linguist-vendored
