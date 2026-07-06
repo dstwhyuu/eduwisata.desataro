@@ -78,6 +78,8 @@ To run this project on your local machine, follow these steps:
 
 ![Detail Page](./images/detail-page.png)
 
+![Detail Page](./images/dashboard-admin.png)
+
 ---
 
 This project was developed as part of my coursework to apply fundamental web development concepts.
